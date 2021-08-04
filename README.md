@@ -1,2 +1,2 @@
 # Arithmetic-Operations
-Arithmetic Operations using html with JS.
+Arithmetic Operations.
